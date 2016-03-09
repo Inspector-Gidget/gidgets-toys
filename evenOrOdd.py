@@ -16,9 +16,9 @@ if responseA == getFunky:
 		else:
 			print("Gidget-5000: Your number is odd. Goodbye master, I'll be waiting for you.")
 	except ValueError as err:
-		print("If you want to pleasure me, you must provide an integer.")
+		print("Gidget-5000: If you want to pleasure me, you must provide an integer.")
 
 else:
-	print("What? I don't recognize that response... Go away stranger!")
+	print("Gidget-5000: What? I don't recognize that response... Go away stranger!")
 
 
