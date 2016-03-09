@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 
 print("Gidget-5000: Hello, master. How may I service you?")
 responseA = input(">>> ")
