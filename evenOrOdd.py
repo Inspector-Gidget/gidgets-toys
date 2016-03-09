@@ -1,9 +1,9 @@
 #!/usr/bin/python
 
-getFunky = "Them numbers, baby."
-
 print("Gidget-5000: Hello, master. How may I service you?")
 responseA = input(">>> ")
+
+getFunky = "Them numbers, baby."
 
 if responseA == getFunky:
 	print("Gidget-5000: Oooh, evens or odds. What will be the number? ")
